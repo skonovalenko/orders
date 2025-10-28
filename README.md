@@ -10,7 +10,6 @@ It demonstrates best practices for:
 - Proper currency formatting with internationalization support
 - Unit testing edge cases and floating point arithmetic using Vitest
 
----
 ## Features
 
 - Calculate totals, discounts, and subtotals for a list of products
@@ -18,8 +17,6 @@ It demonstrates best practices for:
 - Handles floating point prices accurately
 - Proper currency formatting with **injectable locale and currency**
 - Extensible design for future features like **VAT, coupons, loyalty programs**
-
----
 
 ## ⚙️ Setup
 
@@ -52,9 +49,6 @@ Open interactive Vitest UI:
 ```bash
 npm run test:watch
 ```
-
----
-
 
 ## Design Note on Extensibility
 
